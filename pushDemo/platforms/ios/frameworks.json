@@ -1,0 +1,5 @@
+{
+    "Security.framework": 1,
+    "Foundation.framework": 1,
+    "LocalAuthentication.framework": 1
+}
