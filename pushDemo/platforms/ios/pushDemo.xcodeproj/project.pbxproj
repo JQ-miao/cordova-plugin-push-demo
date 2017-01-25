@@ -189,10 +189,10 @@
 		307C750510C5A3420062BCA9 /* Plugins */ = {
 			isa = PBXGroup;
 			children = (
-				E4FF85DB2E964E22A252A840 /* Push.m */,
-				CA988D5C592143C9AF81A0B0 /* AppDelegate+notification.m */,
 				01BC2C029C9A417EA0CFE36D /* Push.h */,
+				E4FF85DB2E964E22A252A840 /* Push.m */,
 				FCB025F23B874AA887B37AAE /* AppDelegate+notification.h */,
+				CA988D5C592143C9AF81A0B0 /* AppDelegate+notification.m */,
 			);
 			name = Plugins;
 			path = pushDemo/Plugins;
